@@ -1,8 +1,9 @@
-This is a Rainbow Peom.
+This is a Rainbow Peom and Unicorn.
 
 Green
 Yellow
 Blue
+Unicorn
 Grey
 
-This is the end of the rainbow poem.
+This is the end of the rainbow poem and unicorn.
